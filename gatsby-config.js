@@ -6,7 +6,7 @@ module.exports = {
     defaultTitle:
       "Consultant, Startups, Sourcing: Providing IT Consultancy Services, Solutions, Cost Savings and SMB Startup Nerdtrepreneur",
     preamble:
-      "I'm a Self Made Business Startup Consultant and Cost Effective Solutions .",
+      "I'm a Self Made Business Startup Consultant and Cost Effective Solutions Provider.",
     defaultDescription: "We develop exceptional products that meet real needs.",
     postamble: "Think we can help your project? We'd love to hear from you:",
     contact: {
