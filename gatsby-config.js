@@ -1,7 +1,7 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "",
+    company: "IT Co",
     domain: "chrisdk.crypto",
     defaultTitle:
       "Fox and Geese: Digital Agency Providing Serverless + React.js Engineering",
