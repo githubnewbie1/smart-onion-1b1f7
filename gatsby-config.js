@@ -4,7 +4,7 @@ module.exports = {
     company: "Consultant, Startups, Sourcing",
     domain: "chrisdk.crypto",
     defaultTitle:
-      "Consultant, Startups, Sourcing: Providing IT Consultancy Services, Solutions, Cost Savings and SMB Startup ",
+      "Consultant, Startups, Sourcing: Providing IT Consultancy Services, Solutions, Cost Savings and SMB Startup Nerdtr",
     preamble:
       "We're a Portland, Oregon-based team of data scientists and software engineers.",
     defaultDescription: "We develop exceptional products that meet real needs.",
