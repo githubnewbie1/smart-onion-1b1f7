@@ -9,7 +9,7 @@ import Typography from "@material-ui/core/Typography";
 import { Alien } from "mdi-material-ui";
 import { Robot } from "mdi-material-ui";
 import logo from "../../images/logo.png";
-import Avatar from "@material-ui/core/Avatar";
+import Avatar from "../../images/logo.png";
 
 const styles = (theme) => ({
   angles: {
