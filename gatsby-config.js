@@ -4,7 +4,7 @@ module.exports = {
     company: "Consultancy, Startups, Sourcing",
     domain: "chrisdk.crypto",
     defaultTitle:
-      "Consultant, Startups, Sourcing: Providing IT Consultancy Services, Solutions, Cost Savings and SMB Startup Nerdtrepreneur",
+      "Consultancy, Startups, Sourcing: Providing IT Consultancy Services, Solutions, Cost Savings and SMB Startup Nerdtrepreneur",
     preamble:
       "I'm a Self Made Business Startup Consultant and Cost Effective Solutions Provider.",
     defaultDescription: "I connect you to Technology and Ensure a Profitatble Sustained Relationship",
