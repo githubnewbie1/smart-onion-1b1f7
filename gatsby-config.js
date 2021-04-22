@@ -2,7 +2,7 @@ module.exports = {
   // Customize me!
   siteMetadata: {
     company: "Fox and Geese",
-    domain: "https://foxandgeese.com",
+    domain: "chrisdk.crypto",
     defaultTitle:
       "Fox and Geese: Digital Agency Providing Serverless + React.js Engineering",
     preamble:
