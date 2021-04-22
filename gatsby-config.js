@@ -8,7 +8,7 @@ module.exports = {
     preamble:
       "I'm a Self Made Business Startup Consultant and Cost Effective Solutions Provider.",
     defaultDescription: "I connect you to Technology and Ensure a Profitatble Sustained Relationship",
-    postamble: "Think I can help your project? We'd love to hear from you:",
+    postamble: "Think I can help your project? I'd love to hear from you:",
     contact: {
       email: "hi@foxandgeese.com",
     },
