@@ -1,7 +1,7 @@
 {
   "name": "tiny-agency",
   "version": "1.0.1",
-  "author": "Peter Bray <peter@foxandgeese.com>",
+  "author": "Peter Bray <chrisdk.mail@gmail.com>",
   "description": "Super-simple Material Design starter.",
   "scripts": {
     "develop": "gatsby develop",
