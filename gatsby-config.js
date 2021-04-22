@@ -1,7 +1,7 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "Consultant, Startups, Sourcing",
+    company: "Consultancy, Startups, Sourcing",
     domain: "chrisdk.crypto",
     defaultTitle:
       "Consultant, Startups, Sourcing: Providing IT Consultancy Services, Solutions, Cost Savings and SMB Startup Nerdtrepreneur",
